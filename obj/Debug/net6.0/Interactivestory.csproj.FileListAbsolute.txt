@@ -1,0 +1,15 @@
+C:\Programmering\Interactivestory\Interactivestory\Interactivestory\bin\Debug\net6.0\Interactivestory.exe
+C:\Programmering\Interactivestory\Interactivestory\Interactivestory\bin\Debug\net6.0\Interactivestory.deps.json
+C:\Programmering\Interactivestory\Interactivestory\Interactivestory\bin\Debug\net6.0\Interactivestory.runtimeconfig.json
+C:\Programmering\Interactivestory\Interactivestory\Interactivestory\bin\Debug\net6.0\Interactivestory.dll
+C:\Programmering\Interactivestory\Interactivestory\Interactivestory\bin\Debug\net6.0\Interactivestory.pdb
+C:\Programmering\Interactivestory\Interactivestory\Interactivestory\obj\Debug\net6.0\Interactivestory.csproj.AssemblyReference.cache
+C:\Programmering\Interactivestory\Interactivestory\Interactivestory\obj\Debug\net6.0\Interactivestory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmering\Interactivestory\Interactivestory\Interactivestory\obj\Debug\net6.0\Interactivestory.AssemblyInfoInputs.cache
+C:\Programmering\Interactivestory\Interactivestory\Interactivestory\obj\Debug\net6.0\Interactivestory.AssemblyInfo.cs
+C:\Programmering\Interactivestory\Interactivestory\Interactivestory\obj\Debug\net6.0\Interactivestory.csproj.CoreCompileInputs.cache
+C:\Programmering\Interactivestory\Interactivestory\Interactivestory\obj\Debug\net6.0\Interactivestory.dll
+C:\Programmering\Interactivestory\Interactivestory\Interactivestory\obj\Debug\net6.0\refint\Interactivestory.dll
+C:\Programmering\Interactivestory\Interactivestory\Interactivestory\obj\Debug\net6.0\Interactivestory.pdb
+C:\Programmering\Interactivestory\Interactivestory\Interactivestory\obj\Debug\net6.0\Interactivestory.genruntimeconfig.cache
+C:\Programmering\Interactivestory\Interactivestory\Interactivestory\obj\Debug\net6.0\ref\Interactivestory.dll
